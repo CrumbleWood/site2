@@ -332,12 +332,12 @@ a::selection{background:rgba(255,255,0,0.3);color:#0645ad}
 
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
---------------------------------------------------------------*/
-@media screen and (max-width: 20px) {
+--------------------------------------------------------------
+@media screen and (max-width: 768px) {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
-}
+}*/
 
 /*--------------------------------------------------------------
 # Header
