@@ -552,7 +552,7 @@ a::selection{background:rgba(255,255,0,0.3);color:#0645ad}
     display: none; visibility: hidden;
   }
 
-  p#header-ad {font-size:32px;}
+  p#header-ad {font-size:32px; visibility:visible; display: block;}
 }
 
 #hero:before {
