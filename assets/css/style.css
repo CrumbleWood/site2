@@ -551,6 +551,8 @@ a::selection{background:rgba(255,255,0,0.3);color:#0645ad}
   #header-image-big {
     display: none; visibility: hidden;
   }
+
+  p#header-ad {font-size:32px;}
 }
 
 #hero:before {
